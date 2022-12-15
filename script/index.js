@@ -3,6 +3,7 @@ let pay = [];
 let cat = [];
 let launch = [];
 let trend = [];
+let deal = [];
 let x = 'script/db.json';
 fetch(x)
   .then(function (res) {
@@ -14,11 +15,13 @@ fetch(x)
     cat = data.category;
     launch = data.NewLaunch;
     trend = data.Trending;
+    deal = data.Deals;
     displayCard(bag);
     displayPay(pay);
     displayCategory(cat);
     displayLaunch(launch);
     displayTrend(trend);
+    displayDeal(deal);
   })
   .catch(function (err) {
     console.log(err);
@@ -96,5 +99,20 @@ function displayTrend(trend) {
     price.innerText = el.price;
     div.append(image, head, price);
     T.append(div);
+  });
+}
+
+let D = document.querySelector('.deals');
+function displayDeal(deal) {
+  deal.forEach((el) => {
+    let div = document.createElement('div');
+    let image = document.createElement('img');
+    image.setAttribute('src', el.img);
+    let head = document.createElement('h2');
+    head.innerText = el.head;
+    let price = document.createElement('p');
+    price.innerText = el.price;
+    div.append(image, head, price);
+    D.append(div);
   });
 }

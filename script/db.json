@@ -146,5 +146,37 @@
       "head": "Liveasy Ortho Care Cotton Crepe Bandage...",
       "price": "₹191.25"
     }
+  ],
+  "Deals": [
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/I40923/nivea-soft-light-moisturizer-of-200-ml-2-1669711207.jpg?dim=1440x0",
+      "head": "Nivea Soft Light Moisturizer Of 200 Ml",
+      "price": "₹221.4"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/Z07796/supradyn-immuno-multivitamin-natural-immunity-booster-with-vit-c-vit-d-zinc-30-tablets-2-1665045164.jpg?dim=1440x0",
+      "head": "Supradyn Immuno+ Multivitamin Natural",
+      "price": "₹243"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/O15703/la-shield-fisico-sunscreen-spf-50-matte-tube-of-50-g-2-1655118910.jpg?dim=1440x0",
+      "head": "La Shield Fisico Sunscreen Spf 50",
+      "price": "₹442"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/D44788/cremaffin-trial-stick-pack-of-15ml-pack-of-5-mint-2-1651912372.jpg?dim=1440x0",
+      "head": "Cremaffin Trial Stick Pack Of 15ml (pack Of...",
+      "price": "₹35.15"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/I41687/nivea-soft-light-moisturizer-of-100-ml-2-1669710876.jpg?dim=1440x0",
+      "head": "Nivea Soft Light Moisturizer Of 200 Ml",
+      "price": "₹221.4"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/211685/vantej-toothpaste-for-hypersensitive-teeth-tube-of-100-g-1-1669616697.jpg?dim=1440x0",
+      "head": "Vantej Toothpaste For Hypersensitive Teeth",
+      "price": "₹247.65"
+    }
   ]
 }
