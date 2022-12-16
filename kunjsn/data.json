@@ -1,0 +1,115 @@
+{
+    "med1": [
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/piles.jpg",
+            "name": "Piles",
+            "title": "Blood vessels in and around the anus get swollen and cause pain"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/fistula.jpg",
+            "name": "Lipoma",
+            "title": "Fat-based tissue lump that grows just beneath the skin"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/fissure.jpg",
+            "name": "Bariatric",
+            "title": "Performed to help curb excessive weight gain in case other methods do not work"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/pilonidal_sinus.jpg",
+            "name": "Fistula",
+            "title": "A condition causing abnormal linking of two body parts"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/varicose_veins.jpg",
+            "name": "Fissure",
+            "title": "A tear in the tissue lining the anus that causes bleeding"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/varicocele.jpg",
+            "name": "Pilonidal Sinus",
+            "title": "A hole forms in the skin near the tailbone with hair and skin"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/kidney_stone.jpg",
+            "name": "Varicose Veins",
+            "title": "Veins get enlarged and twisted, generally near the legs and feet"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/phimosis.jpg",
+            "name": "Phimosis",
+            "title": "Inability to retract skin covering the head of the penis"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/hydrocele.jpg",
+            "name": "Hydrocele",
+            "title": "Swelling of the scrotum due to fluid build-up around the testicle"
+        },
+
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/cataract.jpg",
+            "name": "Cataract",
+            "title": "The lenses of the eyes become cloudy and disrupt clear vision"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/lasik.jpg",
+            "name": "Lasik",
+            "title": "A laser surgery that permanantly corrects vision"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/hernia.jpg",
+            "name": "Hernia",
+            "title": "A condition where an internal organ bulges out abnormally"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/gall_bladder_surgery.jpg",
+            "name": "Gallbladder",
+            "title": "Removal of gallbladder due to the deposite of stone/infection in it"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/appendix.jpg",
+            "name": "Appendix",
+            "title": "Inflammation of the appendix due to the accumulation of pus"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/knee_replacement.svg",
+            "name": "Knee Replacement",
+            "title": "Procedure performed on the knee to replace the joint partially or fully"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/gynecomastia.svg",
+            "name": "Gynecomastia",
+            "title": "Noticiable swelling of breast tissues in boys and men"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/lipoma.svg",
+            "name": "Lipoma",
+            "title": "Fat-based tissue lump that grows just beneath the skin"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/bariatric.svg",
+            "name": "Bariatric",
+            "title": "Performed to help curb excessive weight gain in case other methods do not work"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/breast_cancer.svg",
+            "name": "Breast Cancer",
+            "title": "Uncontrolled growth of abnormal cells in a body part/organ"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/arthroscopy.svg",
+            "name": "Arthroscopy",
+            "title": "Minimally invasive procedure to diagnose and treat problems in your joints"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/hip_replacement.svg",
+            "name": "Hip Replacement",
+            "title": "Prosthetic components are used to replace damaged bone and cartilage"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/liposuction.svg",
+            "name": "Liposuction",
+            "title": "A surgical procedure used to remove excess fat"
+        }
+    ]
+}
