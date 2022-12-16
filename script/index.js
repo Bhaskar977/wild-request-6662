@@ -3,8 +3,8 @@ let pay = [];
 let cat = [];
 let launch = [];
 let trend = [];
-let x = './database/db.json';
-
+let deal = [];
+let x = 'script/db.json';
 fetch(x)
   .then(function (res) {
     return res.json();
@@ -97,9 +97,7 @@ function displayTrend(trend) {
     head.innerText = el.head;
     let price = document.createElement('p');
     price.innerText = el.price;
-    let button = document.createElement('button');
-    button.innerText = 'Add To Cart';
-    div.append(image, head, price, button);
+    div.append(image, head, price);
     T.append(div);
   });
 }

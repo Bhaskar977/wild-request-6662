@@ -1,126 +1,4 @@
 {
-  "register_User": [
-    {
-      "username": "akash",
-      "password": "1111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1111",
-      "id": 26
-    },
-    {
-      "username": "akash",
-      "password": "1111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1111",
-      "id": 27
-    },
-    {
-      "username": "akash",
-      "password": "1111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1111",
-      "id": 28
-    },
-    {
-      "username": "akash",
-      "password": "1111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1111",
-      "id": 29
-    },
-    {
-      "username": "akash",
-      "password": "1111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1111",
-      "id": 30
-    },
-    {
-      "username": "akash",
-      "password": "1111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1111",
-      "id": 31
-    },
-    {
-      "username": "akash",
-      "password": "1111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1111",
-      "id": 32
-    },
-    {
-      "username": "akash",
-      "password": "1111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1111",
-      "id": 33
-    },
-    {
-      "username": "",
-      "password": "",
-      "email": "",
-      "firstname": "",
-      "lastname": "",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "",
-      "id": 34
-    },
-    {
-      "username": "akash",
-      "password": "111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1",
-      "id": 35
-    },
-    {
-      "username": "joshi",
-      "password": "11",
-      "email": "aa@gmaoil.com",
-      "firstname": "joshi",
-      "lastname": "joshi",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "11",
-      "id": 36
-    },
-    {
-      "username": "qqqq",
-      "password": "111",
-      "email": "qqqq",
-      "firstname": "qqqq",
-      "lastname": "qqqq",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "111",
-      "id": 37
-    }
-  ],
   "data1": [
     {
       "img": "https://cms-contents.pharmeasy.in/homepage_top_categories_images/10dfe8c8aa7-HealthCheckups.jpg?dim=256x0"
@@ -294,6 +172,11 @@
       "img": "https://cdn01.pharmeasy.in/dam/products_otc/I41687/nivea-soft-light-moisturizer-of-100-ml-2-1669710876.jpg?dim=1440x0",
       "head": "Nivea Soft Light Moisturizer Of 200 Ml",
       "price": "₹221.4"
+    },
+    {
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/211685/vantej-toothpaste-for-hypersensitive-teeth-tube-of-100-g-1-1669616697.jpg?dim=1440x0",
+      "head": "Vantej Toothpaste For Hypersensitive Teeth",
+      "price": "₹247.65"
     }
   ]
 }
