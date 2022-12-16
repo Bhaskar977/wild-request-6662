@@ -1,0 +1,249 @@
+{
+    "slide":[
+        {
+      "id":1 ,
+      "name":"Pic_1" ,
+      "image":"https://cms-contents.pharmeasy.in/banner/03438c566ea-Booking-Lab-Tests_HP_634x274.jpg"
+    },
+   {
+    "id":2 ,
+    "name":"Pic_2" ,
+    "image":"https://cms-contents.pharmeasy.in/banner/78a5063a317-1_Tested-today_HP_634x274_v1.jpg"
+    },
+    {
+        "id":3 ,
+    "name":"Pic_3" ,
+    "image":"https://cms-contents.pharmeasy.in/banner/ab56cb3731b-Diag_Superfast_Cat_634-x-274_v3.jpg"
+ 
+    },
+    {
+        "id":4 ,
+        "name":"Pic_4" ,
+        "image":"https://cms-contents.pharmeasy.in/banner/077b535cbfd-3_HP_634x274.jpg"
+    
+    },
+    {
+        "id":5 ,
+        "name":"Pic_5" ,
+        "image":"https://cms-contents.pharmeasy.in/banner/6ee85df7b05-SmokingDHP.jpg"
+    
+    },
+    {
+        "id":6 ,
+        "name":"Pic_6" ,
+        "image":"https://cms-contents.pharmeasy.in/banner/0b6c72f3777-YAY550.jpg"
+    
+    }
+],
+"Facility":[
+    {
+        "id":1,
+        "image":"https://th.bing.com/th/id/OIP.uxrs1iqgp-rd58EDiv9aawHaE6?pid=ImgDet&rs=1",
+        "title":"All Test"
+    },
+    {
+        "id":2,
+        "image":"https://th.bing.com/th/id/R.6d92929fa0f6af19444fb74f495bd3f6?rik=eVkadmpAKbnnJQ&riu=http%3a%2f%2fastrologer.swayamvaralaya.com%2fwp-content%2fuploads%2f2012%2f08%2fhealth1.jpg&ehk=BRlD7AaHMIK1Ftwpqwqkh6Ze5lj4RyDBUeyqmghogpQ%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",
+        "title":"Health"
+    },
+    {
+        "id":3,
+        "image":"https://thumbs.dreamstime.com/b/prescription-icon-beautiful-meticulously-designed-prescription-icon-perfect-use-designing-developing-websites-printed-111629779.jpg",
+        "title":"Prescription Upload"
+    },
+    {
+        "id":1,
+        "image":"https://th.bing.com/th/id/OIP.is76Ys4t0kMbwisTdHy4cwAAAA?pid=ImgDet&rs=1",
+        "title":"Book On Call"
+    }
+],
+
+"Frequent_Booked_Lab_Test":[
+    {
+"id":1,
+"image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319361635_570846311549155_8218617138569424296_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=ibqjA32RdKsAX9WUUo1&_nc_ht=scontent.fpat2-3.fna&oh=00_AfDZatgevh4Hr8ZnOXU8abbiFG3iArRjLuAz7TsI76BLHw&oe=63A0A945",
+"Name":"Dengue NS 1 Antigen",
+"title":"Available at 1 certified lab",
+"price":"₹600 Onwards",
+"Button":"Book Now"
+},
+{
+    "id":2,
+    "image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319361635_570846311549155_8218617138569424296_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=ibqjA32RdKsAX9WUUo1&_nc_ht=scontent.fpat2-3.fna&oh=00_AfDZatgevh4Hr8ZnOXU8abbiFG3iArRjLuAz7TsI76BLHw&oe=63A0A945",
+    "Name":"Comprehensive Full Body Checkup",
+    "title":"Available at 1 certified lab",
+    "price":"₹200 Onwards",
+    "Button":"Book Now"
+    },
+    {
+        "id":3,
+        "image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319361635_570846311549155_8218617138569424296_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=ibqjA32RdKsAX9WUUo1&_nc_ht=scontent.fpat2-3.fna&oh=00_AfDZatgevh4Hr8ZnOXU8abbiFG3iArRjLuAz7TsI76BLHw&oe=63A0A945",
+        "Name":"Malaria Antigen Test",
+        "title":"Available at 1 certified lab",
+        "price":"₹850 Onwards",
+        "Button":"Book Now"
+        },
+        {
+            "id":4,
+            "image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319361635_570846311549155_8218617138569424296_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=ibqjA32RdKsAX9WUUo1&_nc_ht=scontent.fpat2-3.fna&oh=00_AfDZatgevh4Hr8ZnOXU8abbiFG3iArRjLuAz7TsI76BLHw&oe=63A0A945",
+            "Name":"Widal test (Slide Method)",
+            "title":"Available at 1 certified lab",
+            "price":"₹990 Onwards",
+            "Button":"Book Now"
+            },
+            {
+                "id":5,
+                "image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319361635_570846311549155_8218617138569424296_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=ibqjA32RdKsAX9WUUo1&_nc_ht=scontent.fpat2-3.fna&oh=00_AfDZatgevh4Hr8ZnOXU8abbiFG3iArRjLuAz7TsI76BLHw&oe=63A0A945",
+                "Name":"Diabetes care",
+                "title":"Available at 1 certified lab",
+                "price":"₹1,120 Onwards",
+                "Button":"Book Now"
+                },
+                {
+                    "id":6,
+                    "image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319361635_570846311549155_8218617138569424296_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=ibqjA32RdKsAX9WUUo1&_nc_ht=scontent.fpat2-3.fna&oh=00_AfDZatgevh4Hr8ZnOXU8abbiFG3iArRjLuAz7TsI76BLHw&oe=63A0A945",
+                    "Name":"Dengue NS 1 Antigen",
+                    "title":"Available at 1 certified lab",
+                    "price":"₹3,300 Onwards",
+                    "Button":"Book Now"
+                    },
+                    {
+                        "id":7,
+                        "image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319361635_570846311549155_8218617138569424296_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=ibqjA32RdKsAX9WUUo1&_nc_ht=scontent.fpat2-3.fna&oh=00_AfDZatgevh4Hr8ZnOXU8abbiFG3iArRjLuAz7TsI76BLHw&oe=63A0A945",
+                        "Name":"Post Prandical Blood Sugar",
+                        "title":"Available at 1 certified lab",
+                        "price":"₹199 Onwards",
+                        "Button":"Book Now"
+                        },
+                        {
+                            "id":8,
+                            "image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319361635_570846311549155_8218617138569424296_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=ibqjA32RdKsAX9WUUo1&_nc_ht=scontent.fpat2-3.fna&oh=00_AfDZatgevh4Hr8ZnOXU8abbiFG3iArRjLuAz7TsI76BLHw&oe=63A0A945",
+                            "Name":"Antenatal Checkup(ANC)",
+                            "title":"Available at 1 certified lab",
+                            "price":"₹999 Onwards",
+                            "Button":"Book Now"
+                            },
+                            {
+                                "id":9,
+                                "image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319361635_570846311549155_8218617138569424296_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=ibqjA32RdKsAX9WUUo1&_nc_ht=scontent.fpat2-3.fna&oh=00_AfDZatgevh4Hr8ZnOXU8abbiFG3iArRjLuAz7TsI76BLHw&oe=63A0A945",
+                                "Name":"Fasting Blood Sugar(FBS)",
+                                "title":"Available at 1 certified lab",
+                                "price":"₹199 Onwards",
+                                "Button":"Book Now"
+                                },
+                                {
+                                    "id":10,
+                                    "image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319361635_570846311549155_8218617138569424296_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=ibqjA32RdKsAX9WUUo1&_nc_ht=scontent.fpat2-3.fna&oh=00_AfDZatgevh4Hr8ZnOXU8abbiFG3iArRjLuAz7TsI76BLHw&oe=63A0A945",
+                                    "Name":"Creatinine",
+                                    "title":"Available at 1 certified lab",
+                                    "price":"₹250 Onwards",
+                                    "Button":"Book Now"
+                                    }],
+  "Certified_Lab":[
+    {
+"id":1,
+"image":"https://i.pinimg.com/originals/04/d4/50/04d45030af00b248e9cf11c9e9f0021c.gif",
+"Name":"MedEasy Labs (Covid RTPCR)",
+"title":"NABL, CAP Certified",
+"location":"A.K. Marg,Mumbai"
+    },
+    {
+        "id":2,
+        "image":"https://i.pinimg.com/originals/04/d4/50/04d45030af00b248e9cf11c9e9f0021c.gif",
+        "Name":"MedEasy Labs (Covid RTPCR)",
+        "title":"NABL, CAP Certified",
+        "location":"Saki Naka, Mumbai"
+            }
+
+    ],
+    "Health_Packages":[
+        {"id":1,
+            "image":"https://th.bing.com/th/id/OIP._S-1syhBKgYrt2SrfBc6ogHaEK?pid=ImgDet&w=2560&h=1440&rs=1",
+            "Name":"Fever Profile (Jaundice / Dengue / Malaria)",
+            "title":"Includes 56 tests",
+            "Price":"₹1,399 Onwards"
+        },
+        {"id":2,
+            "image":"https://th.bing.com/th/id/OIP._S-1syhBKgYrt2SrfBc6ogHaEK?pid=ImgDet&w=2560&h=1440&rs=1",
+            "Name":"Comprehensive Full Body Checkup with Vitamin D & B12",
+            "title":"Includes 56 tests",
+            "Price":"₹1,599 Onwards"
+        },
+        {"id":3,
+            "image":"https://th.bing.com/th/id/OIP._S-1syhBKgYrt2SrfBc6ogHaEK?pid=ImgDet&w=2560&h=1440&rs=1",
+            "Name":"Diabetes care",
+            "title":"Includes 56 tests",
+            "Price":"₹1,199 Onwards"
+        },
+        {"id":4,
+            "image":"https://th.bing.com/th/id/OIP._S-1syhBKgYrt2SrfBc6ogHaEK?pid=ImgDet&w=2560&h=1440&rs=1",
+            "Name":"Fever Profile",
+            "title":"Includes 56 tests",
+            "Price":"₹199 Onwards"
+        }
+    ],
+    "Patients":[
+        {"id":1,
+    "name":"Kunjan",
+    "location":"Kolkata",
+    "comment":"Utmost care is taken to collect samples while maintaining complete hygiene. Only new and fresh collection kits and needles are used. After collection, the sample is immediately transferred into an icebox to prevent degradation and bacterial build-up which may lead to inaccurate diagnosis. The samples are barcode tagged to prevent mix up and in the laboratories, technicians use high-end, state-of-the-art devices to analyse the samples."
+    },
+    {
+        "id":2,
+        "name":"Bhaskar",
+        "location":"Kolkata",
+        "comment":"Utmost care is taken to collect samples while maintaining complete hygiene. Only new and fresh collection kits and needles are used. After collection, the sample is immediately transferred into an icebox to prevent degradation and bacterial build-up which may lead to inaccurate diagnosis. The samples are barcode tagged to prevent mix up and in the laboratories, technicians use high-end, state-of-the-art devices to analyse the samples."
+    },
+    {"id":3,
+"name":"Akash",
+"location":"Kolkata",
+"comment":"Utmost care is taken to collect samples while maintaining complete hygiene. Only new and fresh collection kits and needles are used. After collection, the sample is immediately transferred into an icebox to prevent degradation and bacterial build-up which may lead to inaccurate diagnosis. The samples are barcode tagged to prevent mix up and in the laboratories, technicians use high-end, state-of-the-art devices to analyse the samples."
+},
+{
+    "id":4,
+    "name":"Ayush",
+    "location":"Kolkata",
+    "comment":"Utmost care is taken to collect samples while maintaining complete hygiene. Only new and fresh collection kits and needles are used. After collection, the sample is immediately transferred into an icebox to prevent degradation and bacterial build-up which may lead to inaccurate diagnosis. The samples are barcode tagged to prevent mix up and in the laboratories, technicians use high-end, state-of-the-art devices to analyse the samples."
+}
+    ],
+    "Advertise":[
+        {
+        "Heading":"Affordable Pricicng",
+        "title":"Get the best pricing and packages by comparing across multiple labs."
+        },
+        {
+            "Heading":"Convenience",
+            "title":"Get the sample collected at the comfort at your home."
+            
+        },
+        {
+            "Heading":"Accurate Reports",
+            "title":"Get Accurate and timely reports from our Certified Partner Laboratories."
+          
+        }
+    ],
+    "Benefits":[
+        {
+            "image":"https://th.bing.com/th/id/OIP.v27Nlng_Bf8Wi581AeHCZAAAAA?pid=ImgDet&rs=1",
+            "heading":"Trusted Labs",
+            "title":"Every test booked via PharmEasy is conducted by certified labs that are 100% verified."
+        },
+        {
+            "image":"https://i.pinimg.com/736x/70/b6/84/70b6845e1b17c158fa1242f9326b3023.jpg",
+            "heading":"Home Visit",
+            "title":"Every test booked via PharmEasy has facility of home visit."
+        },
+        {
+            "image":"https://www.bing.com/images/search?view=detailV2&ccid=FXkCaYn5&id=4DFF1C57DD2990ADC2FA001A444167DF4398353B&thid=OIP.FXkCaYn5JN_8wC4qoz8LfgHaD4&mediaurl=https%3a%2f%2fmedia.wired.com%2fphotos%2f5926b8e87034dc5f91bec686%2f191%3a100%2fpass%2farrow_of_time_HP3.jpg&exph=694&expw=1323&q=Time+Arrow&simid=608015014126632442&FORM=IRPRST&ck=F4A6F1632C9188A18B5B3683CAC36FE3&selectedIndex=4&ajaxhist=0&ajaxserp=0",
+            "heading":"Timely and Accurate Reports",
+            "title":"Every test booked via PharmEasy are tested from the CDIL And SRL verified test Labs."
+        }  
+    ],
+    "UI_image":[{
+        "image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319050750_476998234606230_3131710933517850426_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=Zoz84E44c60AX-O0oPc&_nc_ht=scontent.fpat2-3.fna&oh=00_AfC3ddqlYRShOZE9BTKMU4H2EbgBeVLMfHZyG5keCEkKuQ&oe=63A06959"
+
+
+    },
+{"heading":"Download the App for Free"}
+]
+}
