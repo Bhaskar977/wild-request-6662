@@ -2,10 +2,10 @@
   margin: 0;
   padding: 0;
 }
+.head {
+  position: fixed;
+}
 .nav {
-  /* border: 1px solid red; */
-  /* position: sticky; */
-  top: 0px;
   height: 80px;
   display: flex;
   justify-content: space-between;
@@ -15,7 +15,7 @@
   width: 140%;
   margin-left: 40px;
   margin-bottom: 40px;
-  /* border: 1px solid blue; */
+  border: 1px solid blue;
 }
 .nav h3 {
   margin-top: 20px;
@@ -469,7 +469,7 @@
 .container-11 {
   margin-top: 40px;
   height: 250px;
-  background-color: rgb(198, 194, 194);
+  background-color: rgb(248, 249, 255);
 }
 .container-11 > h2 {
   margin-top: 30px;
@@ -491,4 +491,40 @@
 }
 .wrap > div img {
   margin-left: 30px;
+}
+
+/* Banner */
+.ban {
+  width: 100%;
+}
+.ban img {
+  height: 400px;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.cust {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+.cust > div {
+  width: 50%;
+  margin-top: 20px;
+}
+.cust > div > div:nth-child(2) {
+  border: 1px solid red;
+  margin-top: 20px;
+  width: 85%;
+  padding: 20px;
+}
+.cust > div:nth-child(2) > div:nth-child(2) {
+  border: 1px solid green;
+  height: 148px;
+}
+.cust > div:nth-child(2) > div:nth-child(4){
+  height:148px;
+}
+.cust > div:nth-child(2) > div:nth-child(4){
+  
 }
