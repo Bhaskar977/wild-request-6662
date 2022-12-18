@@ -1,124 +1,52 @@
 {
   "register_User": [
     {
-      "username": "akash",
-      "password": "1111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1111",
-      "id": 26
+      "username": "cipla",
+      "avatar": "https://images.jdmagicbox.com/quickquotes/images_main/cofsils-cough-syrups-376958897-0bxxb.png",
+      "Price": "100",
+      "id": 1
     },
     {
-      "username": "akash",
-      "password": "1111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1111",
-      "id": 27
+      "username": "Clodine ",
+      "avatar": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/azshjseewgrghgoo3jzl.jpg",
+      "Price": "500",
+      "id": 2
     },
     {
-      "username": "akash",
-      "password": "1111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1111",
-      "id": 28
+      "username": "Paracetamol",
+      "avatar": "https://tiimg.tistatic.com/fp/1/007/795/paracetamol-tablet-10x15-tablets-pack--273-w300.jpg",
+      "Price": "20",
+      "id": 3
     },
     {
-      "username": "akash",
-      "password": "1111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1111",
-      "id": 29
+      "username": "Paracetamol Suspension",
+      "avatar": "https://krosylpharma.com/wp-content/uploads/2021/03/IBUPROFEN-AND-PARACETAMOL-SUSPENSION.png",
+      "Price": "100",
+      "id": 4
     },
     {
-      "username": "akash",
-      "password": "1111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1111",
-      "id": 30
+      "username": "Syurp",
+      "avatar": "http://cdn.shopify.com/s/files/1/0272/4714/9155/products/Septilin-Syrup_1200x1200.jpg?v=1645079525",
+      "Price": "100",
+      "id": 6
     },
     {
-      "username": "akash",
-      "password": "1111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1111",
-      "id": 31
+      "username": "Manforce",
+      "avatar": "https://m.media-amazon.com/images/I/91oPLBnyCkL._SL1500_.jpg",
+      "Price": "50",
+      "id": 7
     },
     {
-      "username": "akash",
-      "password": "1111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1111",
-      "id": 32
+      "username": "Syrup",
+      "avatar": "https://newassets.apollo247.com/pub/media/catalog/product/a/l/alk0007.jpg",
+      "Price": "50",
+      "id": 8
     },
     {
-      "username": "akash",
-      "password": "1111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1111",
-      "id": 33
-    },
-    {
-      "username": "",
-      "password": "",
-      "email": "",
-      "firstname": "",
-      "lastname": "",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "",
-      "id": 34
-    },
-    {
-      "username": "akash",
-      "password": "111",
-      "email": "a@gmail.com",
-      "firstname": "ANITA",
-      "lastname": "CHAURASIYA",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "1",
-      "id": 35
-    },
-    {
-      "username": "joshi",
-      "password": "11",
-      "email": "aa@gmaoil.com",
-      "firstname": "joshi",
-      "lastname": "joshi",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "11",
-      "id": 36
-    },
-    {
-      "username": "qqqq",
-      "password": "111",
-      "email": "qqqq",
-      "firstname": "qqqq",
-      "lastname": "qqqq",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-      "userLevel": "111",
-      "id": 37
+      "username": "Syurp",
+      "avatar": "",
+      "Price": "200",
+      "id": 9
     }
   ],
   "data1": [
@@ -227,7 +155,7 @@
       "Price": "MRP RS 245"
     },
     {
-      "img": "https://cdn01.pharmeasy.in/dam/products_otc/Q09465/pediflor-kidz-natural-orange-toothpaste-70-g-1-1670314184.jpg?dim=1440x0",
+      "img": "http://cdn.shopify.com/s/files/1/0272/4714/9155/products/Septilin-Syrup_1200x1200.jpg?v=1645079525",
       "head": "Pediflor Kidz Natural Orange Toothpaste 70...",
       "Price": "MRP RS 105"
     }
@@ -236,37 +164,37 @@
     {
       "img": "https://cdn01.pharmeasy.in/dam/products_otc/I05582/dr-morepen-gluco-one-bg-03-glucometer-test-strips-box-of-50-1-1669655233.jpg?dim=1440x0",
       "head": "Dr Morepen Gluco One Bg 03 Glucometer Te...",
-      "price": "₹645.24"
+      "price": 645.24
     },
     {
       "img": "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-1-1654233812.jpg?dim=1440x0",
       "head": "Pharmeasy All-in -one Vaporizer",
-      "price": "₹269.55"
+      "price": 269.55
     },
     {
       "img": "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-2-1669616992.jpg?dim=1440x0",
       "head": "Depura 60000 Iu Vitamin D3 Oral...",
-      "price": "₹79.79"
+      "price": 79.79
     },
     {
       "img": "https://cdn01.pharmeasy.in/dam/products_otc/226830/prega-news-pregnancy-test-kit-1-1669655006.jpg?dim=1440x0",
       "head": "Prega News Pregnancy Test Kit",
-      "price": "₹51.00"
+      "price": 51
     },
     {
       "img": "https://cdn01.pharmeasy.in/dam/products_otc/L79986/everherb-karela-jamun-juice-helps-maintains-healthy-sugar-levels-helps-in-weight-management-1l-2-1670824840.jpg?dim=1440x0",
       "head": "Everherb Karela Jamun Juice - Helps Maintains...",
-      "price": "₹207.48"
+      "price": 207.48
     },
     {
       "img": "https://cdn01.pharmeasy.in/dam/products_otc/000665/accu-chek-active-glucometer-test-strips-box-of-50-1-1669655023.jpg?dim=1440x0",
       "head": "Accu-chek Active Glucometer Test Strips...",
-      "price": "₹902.14"
+      "price": 902.14
     },
     {
       "img": "https://cdn01.pharmeasy.in/dam/products_otc/Q16893/liveasy-ortho-care-cotton-crepe-bandage-reduces-strain-sprain-swelling-10-cms-x-4-meters-2-1656420284.jpg?dim=1440x0",
       "head": "Liveasy Ortho Care Cotton Crepe Bandage...",
-      "price": "₹191.25"
+      "price": 191.25
     }
   ],
   "Deals": [

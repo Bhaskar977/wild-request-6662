@@ -3,6 +3,7 @@ let pay = [];
 let cat = [];
 let launch = [];
 let trend = [];
+let updated=[]
 let x = './database/db.json';
 
 fetch(x)
@@ -16,10 +17,11 @@ fetch(x)
     launch = data.NewLaunch;
     trend = data.Trending;
     deal = data.Deals;
+    updated=data.register_User
     displayCard(bag);
     displayPay(pay);
     displayCategory(cat);
-    displayLaunch(launch);
+    displayLaunch(updated);
     displayTrend(trend);
     displayDeal(deal);
   })
@@ -68,18 +70,37 @@ function displayCategory(cat) {
 
 //New Launches
 
+// let Launch = document.querySelector('.launches');
+// function displayLaunch(launch) {
+//   launch.forEach((el) => {
+//     // console.log(el);
+//     let div = document.createElement('div');
+//     let image = document.createElement('img');
+//     image.setAttribute('src', el.img);
+//     let heading = document.createElement('h3');
+//     heading.innerText = el.head;
+//     let price = document.createElement('p');
+//     price.innerText = el.Price;
+//     div.append(image, heading, price);
+//     Launch.append(div);
+//   });
+// }
+
 let Launch = document.querySelector('.launches');
 function displayLaunch(launch) {
   launch.forEach((el) => {
     // console.log(el);
     let div = document.createElement('div');
     let image = document.createElement('img');
-    image.setAttribute('src', el.img);
+    image.setAttribute('src', el.avatar);
     let heading = document.createElement('h3');
-    heading.innerText = el.head;
+    heading.innerText = el.username;
     let price = document.createElement('p');
-    price.innerText = el.Price;
-    div.append(image, heading, price);
+    price.innerText = "Rs "+el.Price;
+    let btn=document.createElement('button');
+    btn.innerText="DELETE"
+    btn.setAttribute("class","delete")
+    div.append(image, heading, price );
     Launch.append(div);
   });
 }

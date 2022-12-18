@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .row{
+            text-align: center;
+            margin-top: 15%;
+        }
+        .row h2{
+            font-size: 450%;
+        }
+        .register{
+            /* border: 1px solid red; */
+            height: 300px;
+        }
+        .register input{
+            padding: 5px;
+            width: 15%;
+            margin-bottom: 20px;
+            border-radius: 3px;
+            border: 1px solid grey;
+        }
+        .register button {
+            padding: 8px 12px 8px 12px;
+            border: none;
+            background-color:#00BFA5;
+            margin-top: 10px;
+            margin-left: 70px;
+        }
+        #register-user-avatar{
+            margin-left: 30px;
+        }
+        #register-user-level{
+            margin-left: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="row">
+        <div class="columns four sidebar-one" id="sidebar-one">
+
+          <h2>Register Product</h2>
+          <div class="register">
+              <label for="">Description</label>
+              <input type="text" id="register-user-username" class="u-full-width" placeholder="Description" /> <br>
+              <label for="">Image</label>
+              <input  type="text" id="register-user-avatar" class="u-full-width" placeholder="avatar image url"/><br>
+              <label for="">Price</label>
+              <input type="number" id="register-user-level" class="u-full-width" placeholder="Price" /><br>
+              <button id="register-user" class="u-full-width button button-primary">Register Product</button>
+          </div>
+
+</body>
+<script src="./display.js"></script>
+</html>
