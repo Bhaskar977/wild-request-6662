@@ -98,47 +98,9 @@
                 "title":"Available at 1 certified lab",
                 "price":"₹1,120 Onwards",
                 "Button":"Book Now"
-                },
-                {
-                    "id":6,
-                    "image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319361635_570846311549155_8218617138569424296_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=ibqjA32RdKsAX9WUUo1&_nc_ht=scontent.fpat2-3.fna&oh=00_AfDZatgevh4Hr8ZnOXU8abbiFG3iArRjLuAz7TsI76BLHw&oe=63A0A945",
-                    "Name":"Dengue NS 1 Antigen",
-                    "title":"Available at 1 certified lab",
-                    "price":"₹3,300 Onwards",
-                    "Button":"Book Now"
-                    },
-                    {
-                        "id":7,
-                        "image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319361635_570846311549155_8218617138569424296_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=ibqjA32RdKsAX9WUUo1&_nc_ht=scontent.fpat2-3.fna&oh=00_AfDZatgevh4Hr8ZnOXU8abbiFG3iArRjLuAz7TsI76BLHw&oe=63A0A945",
-                        "Name":"Post Prandical Blood Sugar",
-                        "title":"Available at 1 certified lab",
-                        "price":"₹199 Onwards",
-                        "Button":"Book Now"
-                        },
-                        {
-                            "id":8,
-                            "image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319361635_570846311549155_8218617138569424296_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=ibqjA32RdKsAX9WUUo1&_nc_ht=scontent.fpat2-3.fna&oh=00_AfDZatgevh4Hr8ZnOXU8abbiFG3iArRjLuAz7TsI76BLHw&oe=63A0A945",
-                            "Name":"Antenatal Checkup(ANC)",
-                            "title":"Available at 1 certified lab",
-                            "price":"₹999 Onwards",
-                            "Button":"Book Now"
-                            },
-                            {
-                                "id":9,
-                                "image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319361635_570846311549155_8218617138569424296_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=ibqjA32RdKsAX9WUUo1&_nc_ht=scontent.fpat2-3.fna&oh=00_AfDZatgevh4Hr8ZnOXU8abbiFG3iArRjLuAz7TsI76BLHw&oe=63A0A945",
-                                "Name":"Fasting Blood Sugar(FBS)",
-                                "title":"Available at 1 certified lab",
-                                "price":"₹199 Onwards",
-                                "Button":"Book Now"
-                                },
-                                {
-                                    "id":10,
-                                    "image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319361635_570846311549155_8218617138569424296_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=ibqjA32RdKsAX9WUUo1&_nc_ht=scontent.fpat2-3.fna&oh=00_AfDZatgevh4Hr8ZnOXU8abbiFG3iArRjLuAz7TsI76BLHw&oe=63A0A945",
-                                    "Name":"Creatinine",
-                                    "title":"Available at 1 certified lab",
-                                    "price":"₹250 Onwards",
-                                    "Button":"Book Now"
-                                    }],
+                }
+                   
+                ],
   "Certified_Lab":[
     {
 "id":1,
@@ -182,41 +144,100 @@
             "Price":"₹199 Onwards"
         }
     ],
+  
+
+    "Faq":[
+        {"id":1,
+         "ques":"What are the covid precautions MedEasy is taking for the testing purpose?",
+         "ans":"PharmEasy takes safety of our patients and staff very seriously. Which is why since the onset of COVID-19, we formulated a 5-step safety program to offer 100% protection to all stakeholders.. Along with this, NABL guidelines are followed to ensure samples are not corrupted during collection, transportation or storage. Here are the safety measures that we adhere to-Vigilance about face masksHand hygiene including sanitization and wearing of glovesFrequent thermal checksHygienic sample collectionCareful disposal of wasteCheck flu symptoms with patients"
+        
+    },
+    {
+        "id":2,
+        "ques":"Are the phlebotomists sufficiently qualified?" ,
+        "ans": "PharmEasy owns 18 state-of-the-art diagnostic laboratories in the country with an inhouse fleet of 500 phlebotomists across 2500+ pincodes. We have a dedicated training team for the technicians which constantly track their performance on parameters like on time arrival, painless collection, adherence to NABL guidelines for sample storage & transport and customer support. We have a very strict hiring process which ensures that every sample collection experience is best in class."
+    }
+    ,
+    {
+        "id":3,
+        "ques":"How efficient is the sampe collecrion and analysis process?" ,
+        "ans": "Utmost care is taken to collect samples while maintaining complete hygiene. Only new and fresh collection kits and needles are used. After collection, the sample is immediately transferred into an icebox to prevent degradation and bacterial build-up which may lead to inaccurate diagnosis. The samples are barcode tagged to prevent mix up and in the laboratories, technicians use high-end, state-of-the-art devices to analyse the samples."
+    }
+    ,
+    {
+        "id":4,
+        "ques": "Why are lab tests essential?",
+        "ans": "Lab tests or diagnostic tests are recommended by doctors when they suspect that there might be something wrong with your health. Samples of your blood, stool, urine, or mucus can reveal a lot about the state of your health when analysed with special devices. Once the problem is detected, your doctor can diagnose and put you on medication or suggest a course of treatment."
+    }
+    ,
+    {
+        "id":5,
+        "ques": "How long does it take for the report to be delivered?",
+        "ans": "It takes 24-48 hours for the lab to prepare your report and have it delivered to you."
+    }
+    ,
+    {
+        "id":6,
+        "ques":"How should one prepare for lab test?" ,
+        "ans": "It takes 24-48 hours for the lab to prepare your report and have it delivered to you."
+    }
+    ,
+    {
+        "id":7,
+        "ques": "How are lab test reports interpreted?",
+        "ans": "The reports that our labs will deliver to you will be quite detailed. There will be charts of reference ranges to help you understand the report and a statement from a qualified doctor. But, once you receive your report, it is best to consult your doctor and ask him/her to explain it to you."
+    }
+    ,
+    {
+        "id":8,
+        "ques":"If the lab test results are within normal range, does that mean no illness has been detected?" ,
+        "ans": "If your reports are within normal range, it is certainly good news. But normal results do not always give you a clean bill of health. If symptoms persist, your doctor will recommend other tests to detect what is triggering the unusual signs."
+    }
+
+],
+
     "Patients":[
         {"id":1,
+        "image":"https://bickwanckmd.com/wp-content/uploads/2013/05/person-bick-300x181.jpg",
     "name":"Kunjan",
     "location":"Kolkata",
     "comment":"Utmost care is taken to collect samples while maintaining complete hygiene. Only new and fresh collection kits and needles are used. After collection, the sample is immediately transferred into an icebox to prevent degradation and bacterial build-up which may lead to inaccurate diagnosis. The samples are barcode tagged to prevent mix up and in the laboratories, technicians use high-end, state-of-the-art devices to analyse the samples."
     },
     {
         "id":2,
+        "image":"https://bickwanckmd.com/wp-content/uploads/2013/05/person-bick-300x181.jpg",
         "name":"Bhaskar",
         "location":"Kolkata",
         "comment":"Utmost care is taken to collect samples while maintaining complete hygiene. Only new and fresh collection kits and needles are used. After collection, the sample is immediately transferred into an icebox to prevent degradation and bacterial build-up which may lead to inaccurate diagnosis. The samples are barcode tagged to prevent mix up and in the laboratories, technicians use high-end, state-of-the-art devices to analyse the samples."
     },
     {"id":3,
 "name":"Akash",
+"image":"https://bickwanckmd.com/wp-content/uploads/2013/05/person-bick-300x181.jpg",
 "location":"Kolkata",
 "comment":"Utmost care is taken to collect samples while maintaining complete hygiene. Only new and fresh collection kits and needles are used. After collection, the sample is immediately transferred into an icebox to prevent degradation and bacterial build-up which may lead to inaccurate diagnosis. The samples are barcode tagged to prevent mix up and in the laboratories, technicians use high-end, state-of-the-art devices to analyse the samples."
 },
 {
     "id":4,
     "name":"Ayush",
+    "image":"https://bickwanckmd.com/wp-content/uploads/2013/05/person-bick-300x181.jpg",
     "location":"Kolkata",
     "comment":"Utmost care is taken to collect samples while maintaining complete hygiene. Only new and fresh collection kits and needles are used. After collection, the sample is immediately transferred into an icebox to prevent degradation and bacterial build-up which may lead to inaccurate diagnosis. The samples are barcode tagged to prevent mix up and in the laboratories, technicians use high-end, state-of-the-art devices to analyse the samples."
 }
     ],
     "Advertise":[
         {
-        "Heading":"Affordable Pricicng",
+            "image":"https://cdn01.pharmeasy.in/dam/diagnostics/usp-images/e916484d3a2336368ce2ecf1748437e2",
+        "Heading":"Affordable Pricing",
         "title":"Get the best pricing and packages by comparing across multiple labs."
         },
         {
+            "image":"https://cdn01.pharmeasy.in/dam/diagnostics/usp-images/55f90440a9873704a771d084cb65b909",
             "Heading":"Convenience",
             "title":"Get the sample collected at the comfort at your home."
             
         },
         {
+            "image":"https://cdn01.pharmeasy.in/dam/diagnostics/usp-images/64664cb0cfd63f81bc200f3e1e0c755f",
             "Heading":"Accurate Reports",
             "title":"Get Accurate and timely reports from our Certified Partner Laboratories."
           
@@ -224,7 +245,7 @@
     ],
     "Benefits":[
         {
-            "image":"https://th.bing.com/th/id/OIP.v27Nlng_Bf8Wi581AeHCZAAAAA?pid=ImgDet&rs=1",
+            "image":"https://assets.pharmeasy.in/web-assets/dist/9407515b.svg?dim=0x72&dpr=1.25&q=100",
             "heading":"Trusted Labs",
             "title":"Every test booked via PharmEasy is conducted by certified labs that are 100% verified."
         },
@@ -234,16 +255,27 @@
             "title":"Every test booked via PharmEasy has facility of home visit."
         },
         {
-            "image":"https://www.bing.com/images/search?view=detailV2&ccid=FXkCaYn5&id=4DFF1C57DD2990ADC2FA001A444167DF4398353B&thid=OIP.FXkCaYn5JN_8wC4qoz8LfgHaD4&mediaurl=https%3a%2f%2fmedia.wired.com%2fphotos%2f5926b8e87034dc5f91bec686%2f191%3a100%2fpass%2farrow_of_time_HP3.jpg&exph=694&expw=1323&q=Time+Arrow&simid=608015014126632442&FORM=IRPRST&ck=F4A6F1632C9188A18B5B3683CAC36FE3&selectedIndex=4&ajaxhist=0&ajaxserp=0",
+            "image":"https://assets.pharmeasy.in/web-assets/dist/fc71c500.svg?dim=0x72&dpr=1.25&q=100",
             "heading":"Timely and Accurate Reports",
             "title":"Every test booked via PharmEasy are tested from the CDIL And SRL verified test Labs."
-        }  
+        },
+        {
+            "image":"https://assets.pharmeasy.in/web-assets/dist/4a11ac5a.svg?dim=0x72&dpr=1.25&q=100",
+            "heading":"Timely and Accurate Reports",
+            "title":"Every test booked via PharmEasy are tested from the CDIL And SRL verified test Labs."
+        }    
     ],
     "UI_image":[{
         "image":"https://scontent.fpat2-3.fna.fbcdn.net/v/t39.30808-6/319050750_476998234606230_3131710933517850426_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=Zoz84E44c60AX-O0oPc&_nc_ht=scontent.fpat2-3.fna&oh=00_AfC3ddqlYRShOZE9BTKMU4H2EbgBeVLMfHZyG5keCEkKuQ&oe=63A06959"
 
 
     },
-{"heading":"Download the App for Free"}
+{"heading":"Download the App for Free"},
+{
+    "img1":"https://henrilechatnoir.com/wp-content/uploads/2019/11/Google-Play-Store-Android-TV-788x443.png"
+},
+{
+     "img2":"https://th.bing.com/th/id/R.a691dfa22635c11791f78e215d69bbc3?rik=Ms2XMlun2W9tTw&riu=http%3a%2f%2fincitrio.com%2fwp-content%2fuploads%2f2015%2f01%2fApple_gray_logo.png&ehk=7LassJNwds3BTEqitrfk8bUlGqmX01%2b5UMUCH1ixbBk%3d&risl=&pid=ImgRaw&r=0"
+}
 ]
 }
