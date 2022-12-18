@@ -1,10 +1,101 @@
 <!DOCTYPE html>
 <html lang="en">
+
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Cart</title>
+    <style>
+      .cart-container {
+        border: 1px solid rgb(77, 76, 76);
+        width: 40%;
+        padding: 0px 20px 20px 20px;
+        margin-left: 20%;
+        margin-top: 20px;
+        margin-bottom: 180px;
+        border-radius: 20px;
+      }
+
+      .cart-container>div {
+        box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+        margin-top: 40px;
+        padding: 20px;
+        border-radius: 10px;
+        display: flex;
+        justify-content: space-evenly;
+      }
+
+      .cart-container>div>div:nth-child(2) {
+        width: 140%;
+        margin-left: 80px;
+      }
+
+      .cart-container img {
+        width: 40%;
+      }
+
+      .cart-container>div button {
+        padding: 7px 12px 7px 12px;
+        background-color: aquamarine;
+        border: none;
+        color: #fff
+      }
+
+      #item {
+        margin-left: 20%;
+        margin-top: 50px;
+        font-size: 50px;
+      }
+
+    </style>
   </head>
-  <body></body>
+
+  <body>
+    <div>
+      <div id="item"> <span id="s"> 0 </span>-Items in your cart </div>
+      <!-- <div>Total Price:- <span id="price">0</span> </div> -->
+      <div class="cart-container">
+      </div>
+    </div>
+  </body>
+
 </html>
+<script>
+  let LSdata = JSON.parse(localStorage.getItem('cartdata'));
+  //let p = document.querySelector("#price")
+  let cc = document.querySelector('.cart-container');
+  let TotalTask = document.querySelector("#s")
+  function displayTrend (LSdata, i)
+  {
+    cc.innerHTML = null;
+
+    TotalTask.textContent = LSdata.length;
+    LSdata.forEach((el) =>
+    {
+      //console.log(el);
+      let div = document.createElement('div');
+      let div1 = document.createElement('div');
+      let div2 = document.createElement("div")
+      let image = document.createElement('img');
+      image.setAttribute('src', el.img);
+      let head = document.createElement('h3');
+      head.innerText = el.head;
+      let price = document.createElement('p');
+      price.innerText = el.price;
+      let del = document.createElement('button');
+      del.innerText = 'Remove Item';
+      del.addEventListener('click', function ()
+      {
+        LSdata.splice(i, 1);
+        localStorage.setItem('cartdata', JSON.stringify(LSdata));
+        displayTrend(LSdata);
+      });
+      div1.append(image)
+      div2.append(head, price, del)
+      div.append(div1, div2);
+      cc.append(div);
+    });
+  }
+  displayTrend(LSdata);
+</script>

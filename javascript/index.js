@@ -85,7 +85,7 @@ function displayLaunch(launch) {
 }
 
 //Trending
-
+let count = 1;
 let T = document.querySelector('.trending');
 function displayTrend(trend) {
   trend.forEach((el) => {
@@ -97,13 +97,19 @@ function displayTrend(trend) {
     head.innerText = el.head;
     let price = document.createElement('p');
     price.innerText = el.price;
-    let button = document.createElement('button');
-    button.innerText = 'Add To Cart';
-    div.append(image, head, price, button);
+    let btn = document.createElement('button');
+    btn.innerText = 'Add To Cart';
+
+    btn.addEventListener('click', function () {
+      let cartdata = JSON.parse(localStorage.getItem('cartdata')) || [];
+      cartdata.push(el);
+      localStorage.setItem('cartdata', JSON.stringify(cartdata));
+    });
+    div.append(image, head, price, btn);
     T.append(div);
   });
 }
-
+// ----------//
 let D = document.querySelector('.deals');
 function displayDeal(deal) {
   deal.forEach((el) => {
