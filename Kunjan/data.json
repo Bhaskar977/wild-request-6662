@@ -1,0 +1,296 @@
+{
+    "med1": [
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/piles.jpg",
+            "name": "Piles",
+            "title": "Blood vessels in and around the anus get swollen and cause pain"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/fistula.jpg",
+            "name": "Lipoma",
+            "title": "Fat-based tissue lump that grows just beneath the skin"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/fissure.jpg",
+            "name": "Bariatric",
+            "title": "Performed to help curb excessive weight gain in case other methods do not work"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/pilonidal_sinus.jpg",
+            "name": "Fistula",
+            "title": "A condition causing abnormal linking of two body parts"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/varicose_veins.jpg",
+            "name": "Fissure",
+            "title": "A tear in the tissue lining the anus that causes bleeding"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/varicocele.jpg",
+            "name": "Pilonidal Sinus",
+            "title": "A hole forms in the skin near the tailbone with hair and skin"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/kidney_stone.jpg",
+            "name": "Varicose Veins",
+            "title": "Veins get enlarged and twisted, generally near the legs and feet"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/phimosis.jpg",
+            "name": "Phimosis",
+            "title": "Inability to retract skin covering the head of the penis"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/hydrocele.jpg",
+            "name": "Hydrocele",
+            "title": "Swelling of the scrotum due to fluid build-up around the testicle"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/cataract.jpg",
+            "name": "Cataract",
+            "title": "The lenses of the eyes become cloudy and disrupt clear vision"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/lasik.jpg",
+            "name": "Lasik",
+            "title": "A laser surgery that permanantly corrects vision"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/hernia.jpg",
+            "name": "Hernia",
+            "title": "A condition where an internal organ bulges out abnormally"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/gall_bladder_surgery.jpg",
+            "name": "Gallbladder",
+            "title": "Removal of gallbladder due to the deposite of stone/infection in it"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/appendix.jpg",
+            "name": "Appendix",
+            "title": "Inflammation of the appendix due to the accumulation of pus"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/knee_replacement.svg",
+            "name": "Knee Replacement",
+            "title": "Procedure performed on the knee to replace the joint partially or fully"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/gynecomastia.svg",
+            "name": "Gynecomastia",
+            "title": "Noticiable swelling of breast tissues in boys and men"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/lipoma.svg",
+            "name": "Lipoma",
+            "title": "Fat-based tissue lump that grows just beneath the skin"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/bariatric.svg",
+            "name": "Bariatric",
+            "title": "Performed to help curb excessive weight gain in case other methods do not work"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/breast_cancer.svg",
+            "name": "Breast Cancer",
+            "title": "Uncontrolled growth of abnormal cells in a body part/organ"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/arthroscopy.svg",
+            "name": "Arthroscopy",
+            "title": "Minimally invasive procedure to diagnose and treat problems in your joints"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/hip_replacement.svg",
+            "name": "Hip Replacement",
+            "title": "Prosthetic components are used to replace damaged bone and cartilage"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/swc/liposuction.svg",
+            "name": "Liposuction",
+            "title": "A surgical procedure used to remove excess fat"
+        }
+    ],
+    "med2": [
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Jiten_Chaudhary.jpg",
+            "name": "Dr. Jiten Chaudhary",
+            "field": "General Surgeon",
+            "experience": "28 Years Experience",
+            "degree": "MS General Surgery, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Gautam_Nadkarni.jpg",
+            "name": "Dr. Gautam Nadkarni",
+            "field": "General Surgeon",
+            "experience": "24 Years Experience",
+            "degree": "MS General Surgery, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Abhijeet_Bagul.jpg",
+            "name": "Dr. Abhijeet Bhagul",
+            "field": "General Surgeon",
+            "experience": "22 Years Experience",
+            "degree": "FCPS, MS General Surgery, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Pradeep_Shriyan.jpg",
+            "name": "Dr. Pradeep Srihan",
+            "field": "Laproscopic & General Surgeon",
+            "experience": "21 Years Experience",
+            "degree": "MS General Surgery, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Vishal_Diddi.jpg",
+            "name": "Dr. Vishal Tukaram",
+            "field": "General Surgeon",
+            "experience": "15 Years Experience",
+            "degree": "DNB-General Surgery, FCPS-General Surgery, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Dubey.jpg",
+            "name": "Dr. Susheel Dubey",
+            "field": "General Surgeon",
+            "experience": "15 Years Experience",
+            "degree": "DNB-General Surgery, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Vinayak_Sutar.jpg",
+            "name": "Dr. Vinayak Sutar",
+            "field": "Cosmetic Surgeon",
+            "experience": "15 Years Experience",
+            "degree": "DNB Plastic Surgeon, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Ashank_Bansal.jpg",
+            "name": "Dr. Ashank Bansal",
+            "field": "IR-vascular",
+            "experience": "14 Years Experience",
+            "degree": "MD-Radio Diagnosis/Radiology, DNB-Radio Diagnosis, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Swapnil_Tople.jpg",
+            "name": "Dr. Swapnil Tople",
+            "field": "Urogist",
+            "experience": "13 Years Experience",
+            "degree": "DNB-Urology/Genito-Urinary Surgery, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Vicky_Jain.jpg",
+            "name": "Dr. Vicky Jain",
+            "field": "Cosmetic Surgeon",
+            "experience": "15 Years Experience",
+            "degree": "DNB Plastic Surgeon, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Simit_Vora.jpg",
+            "name": "Dr. Sumit Vohra",
+            "field": "Urogist",
+            "experience": "13 Years Experience",
+            "degree": "DNB-Urology/Genito-Urinary Surgery, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Gaurav_Kasat.jpg",
+            "name": "Dr. Gaurav Kasat",
+            "field": "Urogist",
+            "experience": "13 Years Experience",
+            "degree": "DNB-Urology/Genito-Urinary Surgery, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Jatin_Asker.jpg",
+            "name": "Dr. Jatin Asher",
+            "field": "IR-vascular",
+            "experience": "14 Years Experience",
+            "degree": "MD-Radio Diagnosis/Radiology, DNB-Radio Diagnosis, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Rajan_Garach.jpg",
+            "name": "Dr. Rajan Garach",
+            "field": "Cosmetic Surgeon",
+            "experience": "15 Years Experience",
+            "degree": "DNB Plastic Surgeon, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Maunil_Bhuta.jpg",
+            "name": "Dr. Maunil Bhutta",
+            "field": "IR-vascular",
+            "experience": "14 Years Experience",
+            "degree": "MD-Radio Diagnosis/Radiology, DNB-Radio Diagnosis, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Sameer_Bagadia.jpg",
+            "name": "Dr. Sameer Bagadia",
+            "field": "Urogist",
+            "experience": "13 Years Experience",
+            "degree": "DNB-Urology/Genito-Urinary Surgery, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Srirang_Yadwadkar.jpg",
+            "name": "Dr. Srirang Yadwadkar",
+            "field": "Laproscopic & General Surgeon",
+            "experience": "21 Years Experience",
+            "degree": "MS General Surgery, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Nikunj_Mody.jpg",
+            "name": "Dr. Nikunj Mody",
+            "field": "IR-vascular",
+            "experience": "14 Years Experience",
+            "degree": "MD-Radio Diagnosis/Radiology, DNB-Radio Diagnosis, MBBS"
+        },
+        {
+            "image": "https://pharmeasy.in/surgicare/assets/images/doctors/Dr_Sameer_Rambia.jpg",
+            "name": "Dr. Sameer Rambia",
+            "field": "Urogist",
+            "experience": "13 Years Experience",
+            "degree": "DNB-Urology/Genito-Urinary Surgery, MBBS"
+        }
+    ],
+    "med3": [
+        {
+            "name": "Shreevant Tiwari",
+            "city": "Mumbai",
+            "comment": "My Care Expert got me a surgery package that included everything from my tests to the surgery cost. I also received a PharmEasy Plus membership for free after my surgery. PharmEasy keeps its promise."
+        },
+        {
+            "name": "Vijaylakshmi Ravishankar",
+            "city": "Mumbai",
+            "comment": "I am happy to have found PharmEasy. I was surprised to receive such excellent care even after my surgery. I really appreciate the quality of service provided. I would recommend PharmEasy to everyone going for elective surgeries."
+        },
+        {
+            "name": "Anindya Roy",
+            "city": "Mumbai",
+            "comment": "Getting a surgery done without undergoing the hassles of insurance and paperwork was a first in my life. The Care Expert handles everything and I would highly recommend their service."
+        },
+        {
+            "name": "Sagarika Jaiswal",
+            "city": "Mumbai",
+            "comment": "PharmEasy handled my mother’s laser piles surgery with great care. The Care Expert arranged for our travel to the hospital and back home. We could even consult the doctor online which saved my mother a lot of trouble. She is recovering well and I am thankful to PharmEasy."
+        },
+        {
+            "name": "Ethel D’Souza",
+            "city": "Mumbai",
+            "comment": "Absolutely recommend PharmEasy for surgeries. Got my surgery done at a reputed hospital that too within my budget. Discounts from PharmEasy are great considering the premium service they provide."
+        },
+        {
+            "name": "Alefiya Springwala",
+            "city": "Mumbai",
+            "comment": "I could not believe that my husband’s operation was completed within a day and he was discharged without any hassle. PharmEasy handled everything for us- from the insurance to the paperwork at the hospital."
+        },
+        {
+            "name": "Aadil Rashid",
+            "city": "Mumbai",
+            "comment": "I am very thankful to PharmEasy. They helped me get my surgery done from a great hospital. On top of that, the option of interest-free EMI payments made it possible for me to avail of this service. PharmEasy is a great option when it comes to excellent medical care at an affordable cost."
+        },
+        {
+            "name": "Harsh Akolkar",
+            "city": "Mumbai",
+            "comment": "Got my father’s piles surgery done through PharmEasy. Their constant support is highly appreciated because they handled everything- from scheduling doctor’s appointments to post-surgery care. We are thankful to the doctors who helped my father undergo this surgery."
+        },
+        {
+            "name": "Vedika Maheshwari",
+            "city": "Mumbai",
+            "comment": "Pre-operative and post-operative care provided by PharmEasy is top-notch. I got my mother’s laser piles surgery done through PharmEasy and follow-up doctor consultations were really helpful. I even received a 1-year subscription to PharmEasy Plus for free. I would recommend people to go for PharmEasy surgeries."
+        }
+    ]
+}
