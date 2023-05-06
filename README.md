@@ -14,10 +14,10 @@ Med Easy is a consumer healthcare app that provides consumers with on-demand, ho
 
 ## Tech Stack Used :
 
--HTML
--CSS
--JavaScript
--npm
+- HTML
+- CSS
+- JavaScript
+- npm
 
 ## Glimpse and Screenshots of our cloned website:
 
