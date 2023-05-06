@@ -14,13 +14,10 @@ Med Easy is a consumer healthcare app that provides consumers with on-demand, ho
 
 ## Tech Stack Used :
 
-<table  align=center>
-  <tr>
-    <td align=center> <img src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png"  height=100   width=150 ></td>
-    <td align=center>  <img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg"  width=150 ></td>
-  </tr>
-
-</table>
+#HTML
+#CSS
+#JavaScript
+#npm
 
 ## Glimpse and Screenshots of our cloned website:
 
